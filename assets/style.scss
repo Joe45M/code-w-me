@@ -1,0 +1,67 @@
+$g: #22e968;
+html {
+
+  font-size: 10px;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  overflow-x: hidden;
+
+}
+// landing wrap
+
+.landing-wrap {
+  background-color: $g;
+  color: #fff;
+  min-height: 79vh;
+  background: linear-gradient(to bottom, rgba(41,220,92,1) 60%, rgba(34,233,104,1) 90%);
+  padding: 10vh 0;
+  overflow-x: hidden;
+  h1 {
+    margin-bottom: 2rem;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  p {
+    max-width: 35rem;
+  }
+}
+
+.hdiw-wrap {
+  padding: 10vh 0;
+  .r {
+    max-width: 270px;
+    display: block;
+    margin: 0 auto;
+  }
+  .rt {
+    color: #515151;
+    font-size: 1.2rem;
+  }
+  .reason-row {
+    padding: 5vh 0;
+  }
+
+}
+
+#join-now-wrap {
+  background: $g;
+  padding: 5vh;
+}
+
+//text 
+
+p {
+  font-size: 1.4rem;
+  line-height: 1.4;
+}
+
+.tc {
+  text-align: center;
+}
+
+.title-row {
+  margin-bottom: 2rem;
+}

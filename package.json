@@ -1,0 +1,19 @@
+{
+  "name": "code-w-me",
+  "version": "1.0.0",
+  "description": "Official Code With Me website.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass assets/style.scss assets/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joe45M/code-w-me.git"
+  },
+  "author": "Joe Moses\u001b\u001b[B\u001b[C\u001b[C\u001b[A\u001b[B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joe45M/code-w-me/issues"
+  },
+  "homepage": "https://github.com/Joe45M/code-w-me#readme"
+}
